@@ -1,8 +1,8 @@
 {
-    "name": "com.baba-s.uni-ui-filled",
-    "displayName": "UniUIFilled",
+    "name": "com.baba-s.kogane-ui-filled",
+    "displayName": "Kogane UI Filled",
     "version": "1.0.0",
-    "unity": "2019.2",
+    "unity": "2022.1",
     "author": "baba-s",
     "description": "",
     "dependencies": {}
